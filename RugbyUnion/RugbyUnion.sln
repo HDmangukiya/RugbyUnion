@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RugbyUnion", "RugbyUnion\RugbyUnion.csproj", "{7023E9FE-1874-4639-9F75-E5FDEB9165BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7023E9FE-1874-4639-9F75-E5FDEB9165BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7023E9FE-1874-4639-9F75-E5FDEB9165BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7023E9FE-1874-4639-9F75-E5FDEB9165BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7023E9FE-1874-4639-9F75-E5FDEB9165BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9D102729-D2A1-4C5E-B98B-DE205D846B4D}
+	EndGlobalSection
+EndGlobal
